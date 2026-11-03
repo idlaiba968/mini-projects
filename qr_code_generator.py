@@ -1,6 +1,5 @@
 # import qrcode
 
-
 # user_url = input("Enter the text or URL: ").strip()
 # user_file = input("Enter the filename: ").strip()
 
