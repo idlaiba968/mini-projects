@@ -1,21 +1,3 @@
-# import random 
-# ok = True
-# while ok:
-#     user = input("Roll the dice? (y/n): ").lower()
-#     if user in ['yes', 'y']:
-#         print(f"({random.randint(1, 6)}, {random.randint(1, 6)})")
-        
-#     elif user in ['n', 'no']:
-#         print("Thanks for playing!")
-#         break
-#     else:
-#         print("Invalid Input!")
-
-
-
-
-
-
 import random
 
 # loop
@@ -39,3 +21,23 @@ while True:
     else:
     #         print invalid choice
         print("Invalid Choice!")
+
+
+
+
+
+
+
+
+# import random 
+# ok = True
+# while ok:
+#     user = input("Roll the dice? (y/n): ").lower()
+#     if user in ['yes', 'y']:
+#         print(f"({random.randint(1, 6)}, {random.randint(1, 6)})")
+        
+#     elif user in ['n', 'no']:
+#         print("Thanks for playing!")
+#         break
+#     else:
+#         print("Invalid Input!")
